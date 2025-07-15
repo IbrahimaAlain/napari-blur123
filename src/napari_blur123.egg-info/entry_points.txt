@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-blur123 = napari_blur123:napari.yaml

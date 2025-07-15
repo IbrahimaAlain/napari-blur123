@@ -1,0 +1,16 @@
+napari
+numpy
+magicgui
+qtpy
+scikit-image
+scipy
+
+[all]
+napari[all]
+
+[testing]
+tox
+pytest
+pytest-cov
+pytest-qt
+napari[qt]
